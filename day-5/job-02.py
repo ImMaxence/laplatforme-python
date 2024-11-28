@@ -1,5 +1,5 @@
 def aficherFruit():
     array = ["pomme", "cerise", "orange"]
-    return array
+    return array[1]
 
 print(aficherFruit())
